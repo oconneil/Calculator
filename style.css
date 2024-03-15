@@ -1,0 +1,18 @@
+html,body {
+    height: 100%;
+    max-height: 100vh;
+    font-family: 'Kanit';
+    background: linear-gradient(#5d28d7,#000);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container{
+    width: 420px;
+    height: 540px;
+    background-color: #fff;
+}
