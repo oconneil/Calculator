@@ -15,4 +15,22 @@ html,body {
     width: 420px;
     height: 540px;
     background-color: #fff;
+    /* border: 12px solid #fa0000; */
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    height: 20%;
+    background: #e3dada;
+    width: 100%;
+    border-radius: 16px 16px 0 0;
+}
+
+.body{
+    height: 80%;
+    background: #f0f0f0;
+    width: 100%;
+    border-radius: 0 0 16px 16px;
 }
